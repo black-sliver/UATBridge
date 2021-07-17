@@ -1,0 +1,6 @@
+[submodule "schema/bridge"]
+	path = schema/bridge
+	url = https://github.com/black-sliver/UATBridge.git
+[submodule "subprojects/UATServerPP"]
+	path = subprojects/UATServerPP
+	url = https://github.com/black-sliver/UATServerPP.git
